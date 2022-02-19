@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying to get my LFCA and LFCS for systems administration. After getting LFCS certifed and LFCA, I will persue and obtain the Certified Network Defender (CND).
 - 💞️ I’m looking to collaborate on the development for an application in networking and cybersecurity.
 - 📫 You can reach me at essence.esterian0177@gmail.com > This is my primary email.
-- $$ I hold the Cisco Certified Network Associate (CCNA) Certification.
+- $$ I hold the Cisco Certified Network Associate (CCNA) Certification and Python Certified Associate Programmer (PCAP) Certificartion. And soon the LFCA and LFCS
 <!---
 Esterian1/Esterian1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
